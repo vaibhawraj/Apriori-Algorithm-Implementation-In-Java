@@ -7,7 +7,7 @@ The code attempts to determine the list of frequent item set using Apriori Algor
 Input format
 -------
 
-Program excepts input from standard input or via file redirection. Input format is:
+Program expects input from standard input or via file redirection. Input format is:
 
 > First Line must contain positive integer greater than or equal to 2 which is Minimum Support Value
 > 
